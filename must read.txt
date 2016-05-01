@@ -1,0 +1,3 @@
+please place your books.xml file on desktop, otherwise this program will not work.
+
+xml search works with author, title, genre, and description data
